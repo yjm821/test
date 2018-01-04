@@ -1,4 +1,4 @@
-public Class test{
+public Class 测试{
 
 public static main(){
   System.println("hello world");
