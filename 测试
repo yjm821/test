@@ -1,0 +1,7 @@
+public Class test{
+
+public static main(){
+  System.println("hello world");
+}
+
+}
